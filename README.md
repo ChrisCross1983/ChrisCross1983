@@ -1,4 +1,4 @@
-![Profile Photo](assets/images/profile_photo.jpg)
+![Profile Photo](assets/images/banner.jpg)
 
 # Christian Borza
 Sales & Tech Enthusiast
