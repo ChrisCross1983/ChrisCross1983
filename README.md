@@ -1,11 +1,9 @@
 ![Profile Photo](assets/images/banner.jpg)
 
-# Christian Borza
-Sales & Tech Enthusiast
 
 ### About me
 
-👋 Hi, I’m @ChrisCross1983
+👋 Hi, I’m Chris,
 
 👀 In my private time, I’m passionate about spending time with my family (Ramona and our two cats) as well as supporting wildlife conservation and animal protection. On a professional level, I am driven by my interest in software development and creative tech projects, alongside my strengths in customer interaction developed through years in sales. My ultimate goal is to combine these passions and skills into a meaningful contribution that unites technology with environmental and social causes.
 
