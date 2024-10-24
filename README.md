@@ -1,4 +1,4 @@
-![Profile Photo](assets/images/banner.jpg)
+![Profile Photo](assets/images/banner.png)
 
 
 ### About me
