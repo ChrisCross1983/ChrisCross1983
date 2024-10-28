@@ -8,15 +8,15 @@
 
 🌱 I’m currently working on my 4th project, where I’ll showcase my full stack development skills, including what I’m learning now — Bootstrap. I love using technology to make projects lively and engaging. Check out my previous projects which are pinned below on my profile:
 
-- Project 1: [Home of Wildlife Animals](https://chriscross1983.github.io/Home-of-wildlife-animals/) / [GitHub Repository](https://github.com/ChrisCross1983/Home-of-wildlife-animals)
-- Project 2: [Marvel Millionaire Quiz](https://chriscross1983.github.io/Marvel-Millionaire/) / [GitHub Repository](https://github.com/ChrisCross1983/Marvel-Millionaire)
-- Project 3: [Workout Creator](https://workout-creator-228871cd4fa2.herokuapp.com/) / [GitHub Repository](https://github.com/ChrisCross1983/pp3-workout-creator)
+- Project 1: [Home of Wildlife Animals](https://chriscross1983.github.io/Home-of-wildlife-animals/) ([GitHub Repository](https://github.com/ChrisCross1983/Home-of-wildlife-animals))
+- Project 2: [Marvel Millionaire Quiz](https://chriscross1983.github.io/Marvel-Millionaire/) ([GitHub Repository](https://github.com/ChrisCross1983/Marvel-Millionaire))
+- Project 3: [Workout Creator](https://workout-creator-228871cd4fa2.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp3-workout-creator))
 
 🐸 Frogs of Fury Hackathon Project (August 2024)
 
 I participated in my first Hackathon with over 70 participants, where I teamed up with three other amazing developers to create Frogs of Fury, a retro-inspired action game. We won 1st place with our fun and challenging concept! 🎉 This game pays homage to classic arcade games like "Contra" and features an endless platformer challenge where players leap to higher levels, defeat enemies, and even team up in a co-op mode. I'm incredibly proud of what we achieved in such a short time!
 
-Check out our [GitHub Repository](https://github.com/ChrisCross1983/team_9_august_2024_chris?tab=readme-ov-file)
+Check out the game here [Frogs of Fury Live Site](https://erikas-ramanauskas.github.io/Frogs-of-Fury/) ([GitHub Repository](https://github.com/ChrisCross1983/team_9_august_2024_chris?tab=readme-ov-file))
 
 💞️ I’m looking to collaborate on projects that bring together tech and conservation efforts, or anything that aims to improve people's lives through innovative solutions.
 
