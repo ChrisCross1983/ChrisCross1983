@@ -1,6 +1,5 @@
 ![Profile Photo](assets/images/banner.png)
 
-
 ### About me
 
 👋 Hi, I’m Chris,
@@ -13,11 +12,15 @@
 - Project 2: [Marvel Millionaire Quiz](https://chriscross1983.github.io/Marvel-Millionaire/) / [GitHub Repository](https://github.com/ChrisCross1983/Marvel-Millionaire)
 - Project 3: [Workout Creator](https://workout-creator-228871cd4fa2.herokuapp.com/) / [GitHub Repository](https://github.com/ChrisCross1983/pp3-workout-creator)
 
+🐸 Frogs of Fury Hackathon Project (August 2024)
+
+I participated in my first Hackathon with over 70 participants, where I teamed up with three other amazing developers to create Frogs of Fury, a retro-inspired action game. We won 1st place with our fun and challenging concept! 🎉 This game pays homage to classic arcade games like "Contra" and features an endless platformer challenge where players leap to higher levels, defeat enemies, and even team up in a co-op mode. I'm incredibly proud of what we achieved in such a short time!
+
+Check out our [GitHub Repository](https://github.com/ChrisCross1983/team_9_august_2024_chris?tab=readme-ov-file)
+
 💞️ I’m looking to collaborate on projects that bring together tech and conservation efforts, or anything that aims to improve people's lives through innovative solutions.
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/borzachristian/) or reach out through my [GitHub profile](https://github.com/ChrisCross1983). You can also write me an email to [![ Gmail ](https://img.shields.io/badge/Gmail-gmail?logo=gmail&logoColor=white&labelColor=%234b034b&color=black)](mailto:cborza83@googlemail.com "Email Me")
-
-😄 Pronouns: He/Him
 
 ⚡ Fun fact: I’m currently preparing for an exciting chapter of my life — moving to Tanzania, a long-term goal, to dedicate ourselves fully to wildlife and animal conservation/protection. Together with my wife, we want to make a real difference for the animals there.
 
