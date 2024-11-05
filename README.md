@@ -22,7 +22,7 @@ Check out the game here [Frogs of Fury Live Site](https://erikas-ramanauskas.git
 
 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/borzachristian/) or reach out through my [GitHub profile](https://github.com/ChrisCross1983). You can also write me an email to [![ Gmail ](https://img.shields.io/badge/Gmail-gmail?logo=gmail&logoColor=white&labelColor=%234b034b&color=black)](mailto:cborza83@googlemail.com "Email Me")
 
-⚡ Fun fact: I’m currently preparing for an exciting chapter of my life — moving to Tanzania, a long-term goal, to dedicate ourselves fully to wildlife and animal conservation/protection. Together with my wife, we want to make a real difference for the animals there.
+⚡ Fun fact: I met my wife in Berlin, and after just three days, we decided to move in together. Three months later, during the intermission of the musical "Tanz der Vampire," I proposed to her.
 
 I’m excited to connect with like-minded individuals, recruiters, and companies interested in collaborating!
 
