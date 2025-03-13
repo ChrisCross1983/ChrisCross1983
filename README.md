@@ -11,7 +11,7 @@
 - Project 1: [Home of Wildlife Animals](https://chriscross1983.github.io/Home-of-wildlife-animals/) ([GitHub Repository](https://github.com/ChrisCross1983/Home-of-wildlife-animals))
 - Project 2: [Marvel Millionaire Quiz](https://chriscross1983.github.io/Marvel-Millionaire/) ([GitHub Repository](https://github.com/ChrisCross1983/Marvel-Millionaire))
 - Project 3: [Workout Creator](https://workout-creator-228871cd4fa2.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp3-workout-creator))
-- Project 4: [Wild Watch](https://wild-watch-4ac96b54e024.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp4-wildwatch)
+- Project 4: [Wild Watch](https://wild-watch-4ac96b54e024.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp4-wildwatch))
 
 🐸 Frogs of Fury Hackathon Project (August 2024)
 
