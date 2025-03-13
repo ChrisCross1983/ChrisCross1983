@@ -6,11 +6,12 @@
 
 👀 In my private time, I’m passionate about spending time with my family (Ramona and our two cats) as well as supporting wildlife conservation and animal protection. On a professional level, I am driven by my interest in software development and creative tech projects, alongside my strengths in customer interaction developed through years in sales. My ultimate goal is to combine these passions and skills into a meaningful contribution that unites technology with environmental and social causes.
 
-🌱 I’m currently working on my 4th project, where I’ll showcase my full stack development skills, including what I’m learning now — Bootstrap. I love using technology to make projects lively and engaging. Check out my previous projects which are pinned below on my profile:
+🌱 I’m currently working on my fifth project as part of the Code Institute program, which marks the start of the “Advanced Frontend Development” specialization. This project focuses on building dynamic and interactive user interfaces using modern JavaScript technologies – primarily React. It's a great opportunity to deepen my full stack development skills, especially in creating responsive, user-friendly applications. You can explore my previous projects pinned below on my profile:
 
 - Project 1: [Home of Wildlife Animals](https://chriscross1983.github.io/Home-of-wildlife-animals/) ([GitHub Repository](https://github.com/ChrisCross1983/Home-of-wildlife-animals))
 - Project 2: [Marvel Millionaire Quiz](https://chriscross1983.github.io/Marvel-Millionaire/) ([GitHub Repository](https://github.com/ChrisCross1983/Marvel-Millionaire))
 - Project 3: [Workout Creator](https://workout-creator-228871cd4fa2.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp3-workout-creator))
+- Project 4: [Wild Watch](https://wild-watch-4ac96b54e024.herokuapp.com/) ([GitHub Repository](https://github.com/ChrisCross1983/pp4-wildwatch)
 
 🐸 Frogs of Fury Hackathon Project (August 2024)
 
